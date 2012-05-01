@@ -1,4 +1,5 @@
-tabreaper
-=========
+This is the tabreaper add-on.  It contains:
 
-Simple Firefox addon that bookmarks + auto-closes tabs that you&#39;ve left open for too long without using them.
+* A program (lib/main.js).
+* A few tests.
+* Some meager documentation.
