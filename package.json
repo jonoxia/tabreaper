@@ -5,5 +5,13 @@
     "version": "0.1",
     "fullName": "The Grim Tab Reaper",
     "id": "jid1-VOwFjnJ0krddcw",
-    "description": "When you leave a tab open for a long time without using it, the Grim Tab Reaper will automatically turn it into a bookmark and close it."
+    "description": "When you leave a tab open for a long time without using it, the Grim Tab Reaper will automatically turn it into a bookmark and close it.",
+    "preferences": [
+     {
+       "name": "tabreaper.max_tab_age",
+       "title": "Reap tabs if they have not been used in this many hours",
+       "type": "integer",
+       "value": 48
+     }
+   ]
 }
