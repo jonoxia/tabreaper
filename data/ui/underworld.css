@@ -2,3 +2,5 @@ h1 {text-align: center; color: red;}
 body {color: #ff99aa; background-color: black;}
 a {color: #99aaff; text-decoration: underline;}
 table {margin: 30px;}
+#atmosphere {text-align: center;}
+#atmosphere img { vertical-align: top;}

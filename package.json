@@ -6,6 +6,7 @@
     "fullName": "The Grim Tab Reaper",
     "id": "jid1-VOwFjnJ0krddcw",
     "description": "When you leave a tab open for a long time without using it, the Grim Tab Reaper will automatically turn it into a bookmark and close it.",
+    "dependencies": ["menuitems", "addon-kit"],
     "preferences": [
      {
        "name": "tabreaper.max_tab_age",
